@@ -6,5 +6,5 @@
 
 •	Also we can make registration for Game, Schedule the games and can Display the schedule of players and games.
 
-• Used scwitch case to Menu driven.
+• Used switch case to Menu driven.
 
